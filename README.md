@@ -1,19 +1,29 @@
 # Project-7-Fend-Capston-Travel-app
-Overview
-This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI.
 
-Run the application
-Pre-requisite : Install node.js
+## Overview
+This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 
 
-unzip the projects folder.
+## Run the application
+1. **Pre-requisite** : 
+Install [node.js](https://nodejs.org/)
 
-install the dependencies
+2. unzip the projects folder.
 
+3. install the dependencies
+```
 npm install
-Run build for the project using the cmd as follow:
+```
+4. Run build for the project using the cmd as follow:
+```
 npm run build-prod
-Run the server.
+```
+
+5. Run the server.
+```
 npm start
-View the URL http://localhost:8081/ in browser.
-Run the testing.
+```
+
+6. View the URL **http://localhost:8080/** in browser.
+7. Run the testing.
+```
 npm run test.
